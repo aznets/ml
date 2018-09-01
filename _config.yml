@@ -5,5 +5,7 @@ google_analytics:
 theme: jekyll-theme-architect
 is_user_page: true
 github:
+  owner_url: https://aznets.github.io/
   ml_url: https://aznets.github.io/ml/
   dl_url: https://aznets.github.io/dl/
+ 
