@@ -3,7 +3,7 @@ description: Machine Learning
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
-repository_name: aznet
+is_project_page: true
 github:
   ml_url: https://aznets.github.io/ml/
   dl_url: https://aznets.github.io/dl/
